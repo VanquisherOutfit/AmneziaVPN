@@ -6,9 +6,9 @@
 [![Arch](https://img.shields.io/badge/Arch-x64-informational.svg)](https://go.dev/wiki/MinimumRequirements)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-lightgray.svg)](https://t.me/v2raytun)
 
-# v2RayTun - Proxy Client
+# AmneziaVPN - Proxy Client
 
-v2RayTun is a cross-platform proxy client built on [Xray core](https://github.com/XTLS/Xray-core), providing platform-specific applications for Android, Android TV, iOS, macOS, Windows, and Linux.
+AmneziaVPN is a cross-platform proxy client built on [Xray core](https://github.com/XTLS/Xray-core), providing platform-specific applications for Android, Android TV, iOS, macOS, Windows, and Linux.
 
 > This repository is used for public roadmap, releases, bug reports, feature requests, and platform-specific notes.
 
